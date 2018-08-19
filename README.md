@@ -9,5 +9,7 @@
 6.倍数播放，快速观影必备<br>
 7.简洁高效的UI设计<br>
 
-#下载地址：
+#下载地址：<br>
+github:https://raw.githubusercontent.com/heygays/imovie/master/sy1.5.5_signed.apk<br>
+百度网盘：
 
