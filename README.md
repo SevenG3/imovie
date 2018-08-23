@@ -10,6 +10,6 @@
 7.简洁高效的UI设计<br>
 
 #下载地址：<br>
-github:https://raw.githubusercontent.com/heygays/imovie/master/sy1.5.5_signed.apk<br>
-百度网盘：https://pan.baidu.com/s/1yTNmm6x7NCk7kxv-wyqO8Q
+github:https://raw.githubusercontent.com/heygays/imovie/master/sy1.5.6_signed.apk<br>
+百度网盘：https://pan.baidu.com/s/12N7h8G8eZufqBYU41jEm2A
 
