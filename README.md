@@ -7,9 +7,10 @@
 4.电视直播<br>
 5.投屏播放，手机直接投电视，美滋滋<br>
 6.倍速播放，快速观影必备<br>
-7.简洁高效的UI设计<br>
+7.50个vip解析接口
+8.简洁高效的UI设计<br>
 
 #下载地址：<br>
-github:https://raw.githubusercontent.com/heygays/imovie/master/sy1.5.6_signed.apk<br>
+github:https://raw.githubusercontent.com/heygays/imovie/master/sy1.5.7_signed.apk<br>
 网盘：https://www.lanzous.com/i1pzidc
 
