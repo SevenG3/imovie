@@ -12,5 +12,5 @@
 
 #下载地址：<br>
 最新版:https://raw.githubusercontent.com/heygays/imovie/master/sy1.6.1_signed.apk<br>
-网盘：https://www.lanzous.com/i1t6p6h
+网盘：https://www.lanzous.com/i1z0elg
 
