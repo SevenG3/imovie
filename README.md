@@ -11,6 +11,5 @@
 8.简洁高效的UI设计<br>
 
 #下载地址：<br>
-最新版:https://raw.githubusercontent.com/heygays/imovie/master/sy1.6.3.apk<br>
-网盘：https://www.lanzous.com/i1z0elg
+最新版:https://www.lanzous.com/i248h0b<br>
 
