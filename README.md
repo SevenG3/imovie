@@ -11,7 +11,7 @@
 8.简洁高效的UI设计<br>
 
 #下载地址：<br>
-最后更新日期：2018.10.16<br>
-地址1:http://lc-d98vjz8m.cn-n1.lcfile.com/73dfe7d3e20e3ac2c8dc.apk<br>
+最后更新日期：2018.10.22<br>
+地址1:http://lc-d98vjz8m.cn-n1.lcfile.com/974ab2600d54b42920cd.apk<br>
 地址2:https://www.lanzous.com/i248h0b<br>
 
